@@ -10,6 +10,8 @@ public static HelloWorld
 
 		int d= A*b
 		system.out.println(" multiply of A and B="d);	
+		int E = A/B
+		system.out.println(" divide of A and B="E);	
 			
 
 	}
