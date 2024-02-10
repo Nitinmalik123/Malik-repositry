@@ -7,6 +7,9 @@ public static HelloWorld
 		int B=5
 		int c= A+b
 		system.out.println(" add of A and B="c);
+
+		int d= A*b
+		system.out.println(" multiply of A and B="d);	
 			
 
 	}
